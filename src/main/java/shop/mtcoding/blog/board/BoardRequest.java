@@ -1,2 +1,4 @@
-package shop.mtcoding.blog.board;public class BoardRequest {
+package shop.mtcoding.blog.board;
+
+public class BoardRequest {
 }
